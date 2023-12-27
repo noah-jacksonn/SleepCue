@@ -8,6 +8,7 @@
 import SwiftUI
 import SwiftData
 
+
 @main
 struct SleepCueApp: App {
     var sharedModelContainer: ModelContainer = {
